@@ -62,3 +62,6 @@ More available in Style Settings.
 
 ![](<images/Pasted image 20240331003511.png>)
 **_Style Settings_**
+
+![](<images/preview-checklists.png>)
+**_Checklist Icons_**
