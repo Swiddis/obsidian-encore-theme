@@ -23,6 +23,11 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+input[type="checkbox"] {
+  border-radius: 50%;
+}
+
 input[data-task=">"],
 input[data-task="!"],
 input[data-task="-"],
